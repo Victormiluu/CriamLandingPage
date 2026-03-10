@@ -5,7 +5,6 @@ import { Footer } from "./components/footer";
 import { Header } from "./components/header";
 import { HeroCarousel } from "./components/hero-carousel";
 import { Sobre } from "./components/sobre";
-import { Valores } from "./components/valores";
 
 export default function App() {
 
